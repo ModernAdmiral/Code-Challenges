@@ -1,2 +1,2 @@
 # Code-Wars
-Repository of the code katas I have done
+This is a repository of the code katas I have done
