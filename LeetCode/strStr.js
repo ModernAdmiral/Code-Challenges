@@ -12,3 +12,9 @@ var strStr = function (haystack, needle) {
     return -1;
   }
 };
+
+// LOL you can just do this:
+
+var strStr2 = function (haystack, needle) {
+  return haystack.indexOf(needle);
+};
